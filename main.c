@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int number_verifier (int n){
   int result;
 
